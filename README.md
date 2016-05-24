@@ -1,1 +1,1 @@
-# HKUST-COMP-Courses
+COMP4632-Practicing-CyberSecurity-Attacks-and-Counter-measures
